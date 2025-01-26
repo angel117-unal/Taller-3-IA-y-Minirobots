@@ -34,3 +34,5 @@ Archivo: [AlgGen_PyGad.ipynb](./AlgGen_PyGad.ipynb)
 Archivo: -[AGS_máquina_despulpadora_de_café.ipynb](./AGS_máquina_despulpadora_de_café.ipynb)
 Descripción: Este código implementa un algoritmo genético (AG) para optimizar la velocidad de una máquina en función de dos factores: la eficiencia y los defectos. La eficiencia sigue una curva tipo campana centrada en 200 RPM, mientras que los defectos aumentan linealmente con la velocidad. El AG evoluciona una población de posibles soluciones (velocidades) a lo largo de varias generaciones, seleccionando los mejores individuos, cruzándolos para generar nuevos, y aplicando mutaciones aleatorias para explorar soluciones adicionales. Al final, el algoritmo muestra la velocidad óptima encontrada para maximizar la eficiencia mientras minimiza los defectos, dentro de un rango de 50 a 300 RPM.
 
+### Notas adicionales:
+Este repositorio contiene la resolución detallada de los puntos del taller 3 sobre algoritmos genéticos. Cada programa ha sido documentado con descripciones claras para facilitar su comprensión y replicación.
